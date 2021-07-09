@@ -14,14 +14,14 @@ class Node
 
         Node(int leftLimit, int rightLimit)
         {
-            this->leftLimit = leftLimit;
+            this->leftLimit  = leftLimit;
             this->rightLimit = rightLimit;
 
             if (leftLimit < rightLimit)
             {
                 int mid = (leftLimit + rightLimit) / 2;
-                left = new Node(leftLimit, mid);
-                right = new Node(mid + 1, rightLimit);
+                left  = new Node(leftLimit, mid);
+                right = new Node(mid + 1  , rightLimit);
             }
         }
 
