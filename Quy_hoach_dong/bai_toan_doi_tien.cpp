@@ -1,5 +1,5 @@
 /*
- * http://laptrinhonline.club/problem/tichpxsudoku
+ * http://laptrinhonline.club/problem/tichpxdoitien
  */
 
 #include <bits/stdc++.h>
