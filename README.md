@@ -12,5 +12,6 @@
     * [Truy vấn max của đoạn con liên tiếp](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Chia_de_tri/truy_van_max_cua_doan_con_lien_tiep.cpp)
 
 3. Quay lui
-    * [Tám Hậu](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quau_lui/tam_hau.cpp)
+    * [Tám Hậu](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quau_lui/tam_hau.cpp) (4/5)
+    * [Giải ô số Game Sudoku](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quau_lui/giai_o_so_game_sudoku.cpp)
 
