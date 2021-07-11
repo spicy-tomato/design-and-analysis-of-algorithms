@@ -15,7 +15,8 @@
     * [Tám Hậu](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quay_lui/tam_hau.cpp) (4/5)
     * [Giải ô số Game Sudoku](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quay_lui/giai_o_so_game_sudoku.cpp)
     * [Hoán vị lặp](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quay_lui/hoan_vi_lap.cpp)
-    * [Bài toán đổi tiền](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quay_lui/bai_toan_doi_tien.cpp)
+    * [Bài toán đổi tiền](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quay_lui/bai_toan_doi_tien.cpp) (4/5)
+    * [Đong nước](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quay_lui/dong_nuoc.cpp)
    
 4. Quy hoạch động
    * [Bài toán đổi tiền](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quy_hoach_dong/bai_toan_doi_tien.cpp)
