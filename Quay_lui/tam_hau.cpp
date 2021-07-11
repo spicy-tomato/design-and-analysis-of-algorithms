@@ -59,7 +59,7 @@ void solve(int currentRow = 0)
     for (int col = 0; col < n; col++)
     {
         if (col == currentRow)         continue; // On the main diagonal line
-        if (col + currentRow == n - 1) continue; // On the anti diagonal
+        if (col + currentRow == n - 1) continue; // On the anti diagonal line
 
         if (currentRow == 0)
         {

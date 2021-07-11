@@ -92,9 +92,9 @@ void solve(int current = 0)
         for (int i = 1; i <= 9 && !solved; ++i)
         {
             matrix[current] = i;
-            if (rowConditionIsOk(current) &&
+            if (rowConditionIsOk   (current) &&
                 columnConditionIsOk(current) &&
-                areaConditionIsOk(current))
+                areaConditionIsOk  (current))
             {
                 solve(current + 1);
             }
