@@ -21,3 +21,4 @@
 4. Quy hoạch động
    * [Bài toán đổi tiền](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quy_hoach_dong/bai_toan_doi_tien.cpp)
    * [Đường đi ngắn nhất - Thuật toán Floyd](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quy_hoach_dong/thuat_toan_floyd.cpp)
+   * [Sắp xếp ba lô](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quy_hoach_dong/sap_xep_ba_lo.cpp)
