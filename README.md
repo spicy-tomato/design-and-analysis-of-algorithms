@@ -26,6 +26,8 @@
 5. Tham lam
    * [Lập lịch](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Tham_lam/lap_lich.cpp)
    * [Trồng cây](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Tham_lam/trong_cay.cpp)
-
+   * [Búp bê Nga](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Tham_lam/bup_be_nga.cpp)
+   
 ---
+
 **_Chú ý_**: Lời giải được viết bằng ngôn ngữ C++, phiên bản C++14.
