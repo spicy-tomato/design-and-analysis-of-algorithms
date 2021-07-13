@@ -22,13 +22,15 @@
    * [Bài toán đổi tiền](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quy_hoach_dong/bai_toan_doi_tien.cpp)
    * [Đường đi ngắn nhất - Thuật toán Floyd](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quy_hoach_dong/thuat_toan_floyd.cpp)
    * [Sắp xếp ba lô](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quy_hoach_dong/sap_xep_ba_lo.cpp)
-   
+   * [Cắt hình vuông ít nhất](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Quy_hoach_dong/cat_hinh_vuong_it_nhat.cpp)
+
+
 5. Tham lam
    * [Lập lịch](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Tham_lam/lap_lich.cpp)
    * [Trồng cây](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Tham_lam/trong_cay.cpp)
    * [Búp bê Nga](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Tham_lam/bup_be_nga.cpp)
    * [Thuật toán mã hóa Huffman](https://github.com/annguyen-it/design-and-analysis-of-algorithms/blob/master/Tham_lam/thuat_toan_ma_hoa_huffman.cpp)
-   
+
 ---
 
 **_Chú ý_**: Lời giải được viết bằng ngôn ngữ C++, phiên bản C++14.
